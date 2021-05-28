@@ -41,6 +41,7 @@ const EmpreendeAi = () => {
             href="https://empreendeai.com.br/"
             style={{ textDecoration: "none" }}
             target="_blank"
+            rel="noreferrer"
           >
             <Typography>Visite Nosso Site</Typography>
           </a>

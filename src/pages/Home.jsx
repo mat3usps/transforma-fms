@@ -30,7 +30,12 @@ const Home = () => {
         Uma iniciativa:
       </Typography>
 
-      <Box display="flex" justifyContent="space-between" fullWidth>
+      <Box
+        display="flex"
+        justifyContent="space-between"
+        alignItems="center"
+        fullWidth
+      >
         <StyledBox>
           <RouteButton
             linkTo="/clube-da-preta"

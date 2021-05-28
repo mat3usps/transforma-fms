@@ -40,6 +40,7 @@ const ClubeDaPreta = () => {
             href="https://www.clubedapreta.com.br/"
             style={{ textDecoration: "none" }}
             target="_blank"
+            rel="noreferrer"
           >
             <Typography>Visite Nosso Site</Typography>
           </a>
